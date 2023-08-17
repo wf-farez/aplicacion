@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      prime -react
+      rama fabian2
     </div>
   );
 }
